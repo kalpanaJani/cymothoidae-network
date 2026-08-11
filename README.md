@@ -13,4 +13,4 @@ The primary interaction dataset consists of 491 unique species interactions acro
 
 ## Interactive Network Model
 You can view the fully interactive, responsive host-parasite network map live here:
-👉 [INSERT YOUR GITHUB PAGES URL LINK HERE]
+👉  https://kalpanajani.github.io/cymothoidae-network/
